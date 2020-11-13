@@ -1,0 +1,5 @@
+elso_szam = input ('Mi legyen az elso')
+masodik_szam = input ('Mi legyen a maodik')
+elso_szam = int(elso_szam)
+masodik_szam = int(masodik_szam)
+print('Eredmeny:', elso_szam * masodik_szam )
